@@ -12,9 +12,7 @@ if (isset($_COOKIE['username'])) {
 }
 ?>
 
-
-
-
+hi this is text;
 
 
 

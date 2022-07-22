@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 May, 2022, 9:26:58 PM
+    Author     : 21000891
+*/
+
+h1 {
+    text-align: center;
+}
+
+
+
+#actual    {
+    margin:auto;
+    width:550px;
+    height:550px;
+    font-family: "Times New Roman";
+    font-size: 17px; 
+    line-height: 24px;
+    color:darkblue;
+    padding:10px;
+    
+    border: 1px solid black; 
+}
+
+#idName{
+   width:375px;
+    display:block;
+    border: 1 px solid black;
+    height: 25px;
+    margin-top: 6px; 
+}
+
+idEmail{
+    width:375px;
+    display:block;
+    border: 1 px solid black;
+    height: 25px;
+    margin-top: 6px;
+}
+
+idSubject{
+    width:375px;
+    display:block;
+    border: 1 px solid black;
+    height: 25px;
+    margin-top: 6px;
+}
+
+
+
+#idFeedback {
+    width:375px;
+    height:100px;
+    margin-top: 6px;
+}
